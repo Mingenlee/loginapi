@@ -3,7 +3,7 @@
 var mongoose = require('mongoose');
 
 // const {MongoClient} = require('mongodb');
-const uri = "mongodb://192.168.25.79:27017/?useUnifiedTopology=true&poolSize=20&w=majority";
+const uri = "mongodb://192.168.25.79:27017/loginusers?useUnifiedTopology=true&poolSize=20&w=majority";
 
 // const client = new MongoClient(uri);
 

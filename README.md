@@ -10,6 +10,11 @@ sudo n latest   # to install latest one instead of stable
 #
 # mongo basic js program
 # https://github.com/mongodb-developer/nodejs-quickstart/blob/master/usersCollection.js
+# show dbs
+# use <db name>
+# show collections
+# db.<collection name>.find()
+# db.stats()
 #
 git remote remove origin
   378  git remote add origin https://Mingenlee:<gittoken>@github.com/Mingenlee/loginapi.git
